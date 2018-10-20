@@ -1,7 +1,7 @@
 ![](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/logo.png?raw=true)
 ====
 
-# IEEE Fresher's Week 2018
+# IEEE Freshers' Week 2018
 IEEE Fresher's Week 2018 Capture the Flag
 
 Powered by CTFd
