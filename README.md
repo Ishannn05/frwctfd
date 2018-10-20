@@ -2,7 +2,7 @@
 ====
 
 # IEEE Freshers' Week 2018
-IEEE Fresher's Week 2018 Capture the Flag
+IEEE Freshers' Week 2018 Capture the Flag
 
 Powered by CTFd
 
